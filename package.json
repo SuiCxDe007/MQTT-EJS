@@ -1,0 +1,23 @@
+{
+    "name": "jsonsql",
+    "version": "1.0.0",
+    "description": "json with sql and FS",
+    "main": "conf.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "SuiCxDe",
+    "license": "ISC",
+    "dependencies": {
+        "ejs": "^3.1.5",
+        "express": "^4.17.1",
+        "file-system": "^2.2.2",
+        "fs": "0.0.1-security",
+        "mqtt": "^4.2.1",
+        "mysql": "^2.18.1",
+        "reload": "^3.1.0"
+    },
+    "devDependencies": {
+        "jsdom": "16.4.0"
+    }
+}

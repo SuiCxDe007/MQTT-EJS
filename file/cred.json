@@ -1,0 +1,12 @@
+{
+    "host": "localhost",
+    "user": "pmauser",
+    "password": "1234",
+    "database": "employees",
+    "timezone": "UTC",
+
+    "mqttHost": "localhost",
+    "port": 1883,
+    "username": "kaveen",
+    "mqttPassword": "kk=@QW12"
+}
