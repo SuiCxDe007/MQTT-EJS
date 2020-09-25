@@ -1,3 +1,5 @@
+//NOT NEEDED FOR EJS 
+
 var fs = require('fs');
 var mqtt = require('mqtt');
 const express = require('express');
